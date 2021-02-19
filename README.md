@@ -9,7 +9,7 @@ Basic maven java project
 ### Project 
 Steps to build a basic maven java project:
 
--  First create a repository in GitHub and initialize it with me README.md and .gitignore(select maven).
+-  First create a repository in GitHub and initialize it with README.md and .gitignore(select maven).
 -  Clone the repository to your local.
 -  Create a temp folder outside the cloned repository folder.
 -  Open the temp folder with PowerShell by running as an administrator.
@@ -41,4 +41,4 @@ git commit -m "add maven archetype"
 git push origin master
 ```
 
-I have used another archetype, I'm adding [link here]() to the other archetype I used.
+I have used another archetype, I'm adding [link here](https://github.com/navyadevineni/maven-java-archetype) to the other archetype I used.

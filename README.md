@@ -41,4 +41,5 @@ git commit -m "add maven archetype"
 git push origin master
 ```
 
+## Optional:
 I have used another archetype, I'm adding [link here](https://github.com/navyadevineni/maven-java-archetype) to the other archetype I used.

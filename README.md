@@ -40,3 +40,5 @@ git add --all
 git commit -m "add maven archetype"
 git push origin master
 ```
+
+I have used another archetype, I'm adding [link here]() to the other archetype I used.
